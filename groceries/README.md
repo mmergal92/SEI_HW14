@@ -27,6 +27,8 @@ Build an app that let's you make a list of groceries to buy
 1. `touch index.html app.js`
 1. `add all of the scripts for a react app`
 
+Otherwise, run `npx create-react-app react_groceries` the same way we did in class.
+
 
 ## Deliverables
 
